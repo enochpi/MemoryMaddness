@@ -1,0 +1,7 @@
+res://Scorer/scorer.tscn
+res://assets/GM_32_Dark.tres
+res://assets/new_label_settings.tres
+res://memory_tile/memory_tile.tscn
+res://game_screen/game_screen.tscn
+res://game_over/game_over.tscn
+res://master_screen/master_screen.tscn

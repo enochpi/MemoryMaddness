@@ -1,0 +1,10 @@
+res://assets/GM_32_Dark.tres::308cd55498199e56b49d654d1fb2482c::1697153629::res://.godot/exported/133200997/export-0c519273de4c64554d1170f7393901f6-GM_32_Dark.res
+res://assets/new_label_settings.tres::ff7ce72ce17d78c7039c769aa1c780a1::1697153629::res://.godot/exported/133200997/export-181f23a1a1be8310b6ee6aa867c0c0fb-new_label_settings.res
+res://front_sprite/front_sprite.tscn::e4fb8a0b5866d208da35cc55205d7dcc::1695862539::res://.godot/exported/133200997/export-d53105425b0bfada0c48c8f52746c104-front_sprite.scn
+res://game_over/game_over.tscn::6794aaabba05bd8a2f01982ed30b96d7::1697153629::res://.godot/exported/133200997/export-854e5d9735e3c4bfef3a0fc298b56dd1-game_over.scn
+res://game_screen/game_screen.tscn::bc0c6b02c361788e81c8083c462f8c59::1697153629::res://.godot/exported/133200997/export-d34dc5c2f01ca3f5f4bab4e17039efde-game_screen.scn
+res://level_button/level_button.tscn::7f7e3724e70e953eef0b3979ef40b990::1696391903::res://.godot/exported/133200997/export-f67f68e6421e19b44f1cf81238b7e8f8-level_button.scn
+res://main_screen/main_screen.tscn::eeb903c3a23d7400958f8ad878d28816::1696391903::res://.godot/exported/133200997/export-8635b205f6de1fb2c9cf05e4c96a7678-main_screen.scn
+res://master_screen/master_screen.tscn::99cd7a05cc6ddf2f010ad8b81268535e::1696391903::res://.godot/exported/133200997/export-0e1c7ec21d7acf2f307f4e8423b10872-master_screen.scn
+res://memory_tile/memory_tile.tscn::0cd21ebee90c8cf8703131bb5fd434a6::1697153629::res://.godot/exported/133200997/export-6a6b0e2f0a7cf0986f8f456c870ac26c-memory_tile.scn
+res://Scorer/scorer.tscn::4d97e46eaea592ee103461376c514e85::1697153629::res://.godot/exported/133200997/export-fe4f188a5fe8e40f5ada91500dbf8f55-scorer.scn
